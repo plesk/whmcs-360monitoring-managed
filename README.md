@@ -30,6 +30,7 @@
   - For "Monitoring Type" select the appropriate type of monitoring you want to have in this addon. Default is "Website Monitor".
   - Check "Automatically setup the product as soon as an order is placed" if you want a good user experience or any other option that matches your existing process 
   - Switch to the tab "Applicable Products" and select all the products where this addon will be available for 
+  - IMPORTANT: You can combine monitoring with every product you like as long as the "domain" field will be set accordingly by the parent product 
   - Click on "Save Changes"
 
 ## Troubleshooting ##
